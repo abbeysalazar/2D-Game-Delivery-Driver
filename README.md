@@ -13,4 +13,4 @@ This game development project focused on the basic fundamentals of C#, including
 - colliders
 - references
 
-This project also served as an introduction to the use of the unity game engine.
+This project also served as an introduction to the use of the Unity game engine.
